@@ -1,0 +1,167 @@
+@media (max-width: 500px) {
+	.nav li{
+		font-size: 15px;
+		padding: 3px; 
+		display: block;
+	}
+	.container{
+		font-size: 100%;
+	}
+	.container li{
+		font-size: 10px;
+		text-align: center;
+	}
+}
+
+
+.header-logo{
+	display: block;
+	height: 200%;
+	width: 100%;
+}
+
+.header-logo-main{
+	display: cover;
+}
+
+ body{
+ 	background-image: url('images/grey.png')
+} 
+
+
+.form-group {
+	font-family: 'Dosis', sans-serif;
+	text-align: right;
+	background-color: #f77;
+	padding: 10px 0px;
+}
+
+
+.header {
+	display: inline;
+}
+
+
+.text-center{
+	background-color: red;
+}
+
+
+.nav ul{
+	margin: 0;
+	padding: 0;
+	background:#ccc;
+	list-style: none;
+	background-color: #444;
+	text-align: left;
+}
+.nav li{
+	padding: 14px 14px;
+	font-family: "Shadows Into Light", cursive;
+	font-size:1.2em;
+	line-height: 40px;
+	height: 40px;
+	display: inline-block;
+	margin-right: -4px;
+}
+.nav a{
+	text-decoration:none;
+	color: #fff;
+	display: block;
+}
+.nav a:hover {
+	background-color: #f77;
+	padding: 14px 14px;
+	cursor:default;
+}
+
+
+ul {
+	list-style: none;
+}
+
+
+.img-circle-child{
+	margin: 0 auto;
+	width: 60%;
+	display: block;
+}
+
+.img-circle{
+	position: relative;
+	display: block;
+}
+
+#col1 a:link, a:visited {
+	font-family: 'Dosis', sans-serif;
+	background-color: #f77;
+	color: black;
+	padding: 14px 25px;
+	text-align: center;
+	display: inline-block;
+	text-decoration: none;
+}
+#col2 a:link, a:visited{
+	font-family: 'Dosis', sans-serif;
+	background-color: #f77;
+	color: black;
+	padding: 14px 25px;
+	text-align: center;
+	display: inline-block;
+	text-decoration: none;
+}
+#col3 a:link, a:visited {
+	font-family: 'Dosis', sans-serif;
+	background-color: #f77;
+	color: black;
+	padding: 14px 25px;
+	text-align: center;
+	display: inline-block;
+	text-decoration: none;
+}
+
+#col1 p{
+	font-family: "Shadows Into Light", cursive;
+	background-color: red;
+}
+
+#col2 p{
+	font-family: "Shadows Into Light", cursive;
+	background-color: red;
+}
+
+#col3 p{
+	font-family: "Shadows Into Light", cursive;
+	background-color: red;
+}
+
+
+a:hover, a:active {
+	background-color: #efefef;
+}
+
+
+.footer {
+	position: fixed;
+	right: 0;
+	bottom: 0;
+	left: 0;
+	background-color: #efefef;
+	display: inline;
+}
+
+p#footer-copyright {
+	font-family: "Shadows Into Light", cursive;
+	font-size: 100%;
+	padding: 5px;
+	float: left;
+}
+
+#footer-widgets{
+	padding-top: 10px;
+	padding-right: 0px;
+	padding-left: 0px;
+	float: right;
+}
+
+
